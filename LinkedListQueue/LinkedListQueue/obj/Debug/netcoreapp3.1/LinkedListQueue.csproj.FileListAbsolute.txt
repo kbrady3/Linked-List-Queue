@@ -1,0 +1,11 @@
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\bin\Debug\netcoreapp3.1\LinkedListQueue.exe
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\bin\Debug\netcoreapp3.1\LinkedListQueue.deps.json
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\bin\Debug\netcoreapp3.1\LinkedListQueue.runtimeconfig.json
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\bin\Debug\netcoreapp3.1\LinkedListQueue.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\bin\Debug\netcoreapp3.1\LinkedListQueue.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\bin\Debug\netcoreapp3.1\LinkedListQueue.pdb
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\obj\Debug\netcoreapp3.1\LinkedListQueue.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\obj\Debug\netcoreapp3.1\LinkedListQueue.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\obj\Debug\netcoreapp3.1\LinkedListQueue.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\obj\Debug\netcoreapp3.1\LinkedListQueue.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Linked-List-Queue\LinkedListQueue\LinkedListQueue\obj\Debug\netcoreapp3.1\LinkedListQueue.pdb
